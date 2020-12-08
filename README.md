@@ -48,7 +48,7 @@ for (i = 0; i < 5; i++) {
 ## Lab Project 1: Define and Display Items In Array
 1. Define dataset
 1. Add values to dataset
-1. Display dataset values sequentially in separate text objects on canvas
+1. Log dataset values sequentially
 
 ```javascript
 // Define dataset
