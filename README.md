@@ -1,4 +1,4 @@
-# CSL Lab-04 - Arrays & Loops
+# CSL Lab 04 - Arrays & Loops
 
 ## Overview:
 In this learning activity we will explore Javascript arrays and loops, learn what they are and how to use them.
