@@ -63,7 +63,7 @@ function setup() {
   fruit = ['Apple', 'Orange', 'Banana'];
   console.log(fruit);
 
-  // Display dataset values sequentially in separate text objects on canvas
+  // Log dataset values sequentially.
   for (var i = 0; i < 3; i++) {
     console.log(fruit[i]);
   }
