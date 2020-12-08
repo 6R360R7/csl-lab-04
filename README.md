@@ -72,5 +72,9 @@ function setup() {
 
 function draw() {}
 ```
+## Resources
+* https://www.youtube.com/watch?v=RXWO3mFuW-I&t=234s&ab_channel=TheCodingTrain
+* https://www.youtube.com/watch?v=fBqaA7zRO58&t=17s&ab_channel=TheCodingTrain
+
 
 
