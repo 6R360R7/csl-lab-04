@@ -49,9 +49,9 @@ for (i = 0; i < 5; i++) {
 Open in p5js editor: [csl-04-01](https://editor.p5js.org/grgry13/sketches/6AwK0KE1t)
 
 **Pseudocode:**
-1. Define dataset
-1. Add values to dataset
-1. Log dataset values sequentially
+ 1. Define dataset 
+ 1. Add values to dataset 
+ 1. Log dataset values sequentially 
 
 ```javascript
 // Define dataset
@@ -97,10 +97,11 @@ We also wrote some programs to solidify understanding.
 * [Lab 04 01](https://editor.p5js.org/grgry13/sketches/yKucLB22R)
 * [Lab 04 02](https://editor.p5js.org/grgry13/sketches/URP_HxJ11)
 
+I hope you take what we explored and continue to learn more about writing code. :)
+Below I added a few links to some great places to start. 
+
 
 ## Resources
-* https://www.youtube.com/watch?v=RXWO3mFuW-I&t=234s&ab_channel=TheCodingTrain
-* https://www.youtube.com/watch?v=fBqaA7zRO58&t=17s&ab_channel=TheCodingTrain
-
-
-
+* [Beginner](https://thecodingtrain.com/beginners/p5js/)
+* [Intermediate - The Nature of Code](https://thecodingtrain.com/learning/nature-of-code/)
+* [Advanced p5js](https://thecodingtrain.com/learning/nature-of-code/)
