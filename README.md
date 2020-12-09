@@ -45,7 +45,7 @@ for (i = 0; i < 5; i++) {
 
 ***
 
-## Lab Project 1: Define and Display Items In Array
+## Lab Project 1: Define and Log Items In Array
 Open in p5js editor: [csl-04-01](https://editor.p5js.org/grgry13/sketches/6AwK0KE1t)
 
 **Pseudocode:**
