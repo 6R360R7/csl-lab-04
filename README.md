@@ -79,7 +79,24 @@ function draw() {}
 Open in p5js editor: [csl-04-02](https://editor.p5js.org/grgry13/sketches/URP_HxJ11)
 
 Here we will explore this code from The Coding Train to see arrays and array editing in action.
-We will also touch on the concept of opjects in regards to computer programming. 
+We will also touch on the concept of opjects in regards to computer programming.
+
+## Debreifing 
+During the past 4 labs we explored some basic fundimental concepts behind writing code.
+
+* [Functions & Arguments](https://www.w3schools.com/js/js_functions.asp)
+* [Variables](https://www.w3schools.com/js/js_variables.asp)
+* [Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* [Loops](https://www.w3schools.com/js/js_loop_for.asp)
+
+We also wrote some programs to solidify understanding.
+* [Lab 01](https://editor.p5js.org/grgry13/sketches/LIX_GL9xD)
+* [Lab 02](https://editor.p5js.org/grgry13/sketches/5NWhkjIHo)
+* [Lab 03](https://editor.p5js.org/grgry13/sketches/uBCYm5SPg)
+* [Lab 03 02](https://editor.p5js.org/grgry13/sketches/uBCYm5SPg)
+* [Lab 04 01](https://editor.p5js.org/grgry13/sketches/yKucLB22R)
+* [Lab 04 02](https://editor.p5js.org/grgry13/sketches/URP_HxJ11)
+
 
 ## Resources
 * https://www.youtube.com/watch?v=RXWO3mFuW-I&t=234s&ab_channel=TheCodingTrain
