@@ -74,6 +74,13 @@ function setup() {
 
 function draw() {}
 ```
+
+## Lab Project 2:  Array Manipulation Exploration
+Open in p5js editor: [csl-04-02](https://editor.p5js.org/grgry13/sketches/URP_HxJ11)
+
+Here we will explore this code from The Coding Train to see arrays and array editing in action.
+We will also touch on the concept of opjects in regards to computer programming. 
+
 ## Resources
 * https://www.youtube.com/watch?v=RXWO3mFuW-I&t=234s&ab_channel=TheCodingTrain
 * https://www.youtube.com/watch?v=fBqaA7zRO58&t=17s&ab_channel=TheCodingTrain
